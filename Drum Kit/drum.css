@@ -12,6 +12,7 @@ body {
     font-family: "Courier New", Courier, monospace;
     text-align: center;
     background: var(--background);
+    background-image: url("photo-1461784121038-f088ca1e7714.jpeg");
 }
 
 .container {
